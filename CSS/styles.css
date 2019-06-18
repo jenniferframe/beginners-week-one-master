@@ -31,7 +31,7 @@ img {
   display: flex;
   padding: 20px;
   margin: 0 auto;
-  border-radius: 130px;
+  border-radius: 50%;
 }
 
 p {
